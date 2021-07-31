@@ -1,5 +1,5 @@
 
-# Ace Academy - [LIVE LINK](https://ace-academy.live/)
+# Ace Academy - [LIVE LINK](https://sliceline-b7ea7.web.app/)
 
 It is a website where where Edtech companies or teacher can sell their course, mainly
 of Class 11 & 12.
